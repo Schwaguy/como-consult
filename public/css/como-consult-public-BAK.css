@@ -1,0 +1,341 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/* =Responsive iFrame
+-------------------------------------------------------------- */
+.iframe-rwd {
+  position: relative;
+  padding-bottom: 50%;
+  padding-top: 0;
+  margin: 10px 0 10px 0;
+  height: 0;
+  overflow: hidden;
+  border: 1px solid #999;
+}
+.iframe-rwd.square {
+  position: relative;
+  padding-bottom: 100%;
+  padding-top: 0px;
+}
+.iframe-rwd iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+#main-menu .menu-item {
+  position: relative;
+}
+#main-menu .menu-item .consult-button {
+  position: relative;
+  padding: 10px 1em;
+  margin-top: -0.75em;
+}
+.modal-body {
+  position: relative;
+  overflow-y: auto;
+  max-height: 100%;
+}
+.formpage {
+  display: block;
+  position: relative;
+  padding: 1em;
+  width: 100%;
+  float: left;
+  height: auto;
+  margin-left: 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-transform-origin: right center;
+  -moz-transform-origin: right center;
+  transform-origin: right center;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+.formpage.hidden {
+  max-height: 0;
+  margin-left: 120%;
+  -webkit-opacity: 0;
+  -moz-opacity: 0;
+  opacity: 0;
+}
+.formpage.hide-left {
+  margin-left: -100%;
+  -webkit-opacity: 0;
+  -moz-opacity: 0;
+  opacity: 0;
+}
+.formpage.noShow {
+  display: none;
+}
+.formpage h3 {
+  font-size: 1.175em;
+}
+.formpage .icon-item {
+  position: relative;
+  padding-left: 1.666em;
+}
+.formpage .icon-item .icon {
+  position: absolute;
+  top: 0.17em;
+  left: 0;
+}
+.formpage label {
+  display: block;
+  font-weight: 700;
+}
+.formpage input[type='text'],
+.formpage input[type='email'],
+.formpage input[type='tel'],
+.formpage input[type='number'],
+.formpage select,
+.formpage textarea {
+  display: block;
+  width: 100%;
+  margin-top: 0.25em;
+}
+.formpage .warning-table {
+  border: none !important;
+}
+.formpage .warning-table td {
+  border: none !important;
+}
+.formpage .warning-table td i {
+  color: red;
+}
+.formpage .warning {
+  font-size: 0.85em;
+  font-weight: normal;
+  color: red;
+}
+#consultModal {
+  z-index: 9999999;
+}
+#consultModal .modal-dialog {
+  overflow: hidden;
+}
+#consultModal .modal-content {
+  position: relative;
+  height: auto;
+  overflow: hidden;
+  z-index: 10;
+}
+#consultModal .modal-header {
+  position: relative;
+  background-color: #663333;
+  padding-bottom: 4em;
+  z-index: 1;
+}
+#consultModal .modal-header .close,
+#consultModal .modal-header .reset {
+  border: none !important;
+  background: none !important;
+}
+#consultModal .modal-header .close {
+  font-size: 1.5em;
+  color: #fff;
+  font-weight: normal;
+}
+#consultModal .modal-header .reset {
+  font-size: 1.1em;
+  padding-right: 0.5em;
+}
+#consultModal .modal-title {
+  width: 95%;
+  color: #fff;
+}
+#consultModal .modal-title .logo img {
+  display: block;
+  margin: 0 auto;
+  max-width: 150px;
+}
+#consultModal .modal-title .title {
+  font-size: 1.5em;
+  font-weight: 700;
+  line-height: 1.1;
+}
+#consultModal .modal-body {
+  position: relative;
+  padding: 0 2em 1em 3.5em;
+  overflow: visible;
+  z-index: 1;
+}
+#consultModal .formpage-intro {
+  position: relative;
+  background-color: #fff;
+  padding: 0.5em 1.5em 0.5em 3.5em;
+  margin-top: -4.4em;
+  margin-bottom: 1em;
+  border: 1px solid #999;
+  overflow: visible;
+}
+#consultModal .circle-img-wrap {
+  position: absolute;
+  top: -1em;
+  left: -2.333em;
+  width: 5em;
+  height: 5em;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid #fff;
+  box-shadow: -1px 1px 1px 1px #000;
+  box-shadow: -1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+#consultModal .circle-img-wrap img {
+  width: auto;
+  min-width: 100%;
+  height: auto;
+  min-height: 100%;
+}
+#consultModal .question {
+  background: #fff;
+  padding: 0.5em 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+#consultModal .req {
+  color: red;
+}
+#consultModal .next-button,
+#consultModal .submit-button {
+  margin-top: 1em;
+}
+#consultModal .img-upload-preview {
+  position: relative;
+  margin-bottom: 0.25em;
+  cursor: pointer;
+  z-index: 1;
+}
+#consultModal .upload-alert {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 4.5em;
+  text-align: center;
+  z-index: 5;
+}
+#consultModal .img-upload {
+  position: relative;
+  z-index: 10;
+}
+#consultModal .modal-footer {
+  position: relative;
+  z-index: 1;
+}
+#teeth-pictures,
+#teeth-pictures .col {
+  position: relative;
+}
+#teeth-pictures .img-wrap {
+  position: relative;
+  height: 60px;
+  border: 1px solid #999;
+  overflow: hidden;
+}
+#teeth-pictures .img-wrap img {
+  position: absolute;
+  display: block;
+  width: auto;
+  min-width: 100%;
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -moz-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+}
+#processing {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.9);
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  z-index: 99999999;
+}
+#processing.show {
+  display: flex;
+}
+#processing #feedback {
+  display: block;
+  text-align: center;
+}
+#processing #feedback .icon {
+  font-size: 10em;
+  color: rgba(153, 153, 153, 0.5);
+}
+#processing #feedback p {
+  font-size: 2em;
+  font-weight: medium;
+  text-align: center;
+  color: #999999;
+  padding: 1em;
+}
+#processing.hide {
+  display: none;
+}
+@media (max-width: 1199px) {
+  #main-menu .menu-item {
+    position: relative;
+  }
+  #main-menu .menu-item .consult-button {
+    margin-top: 0;
+  }
+}
+@media (max-width: 599px) {
+  #main-menu .menu-item {
+    position: relative;
+  }
+  #main-menu .menu-item .consult-button {
+    position: relative;
+    display: block;
+    margin: 0.25em auto;
+  }
+}
+@media (max-width: 480px) {
+  #consultModal .modal-body {
+    padding: 0 1em 1em 1em;
+  }
+  #consultModal .formpage-intro {
+    position: relative;
+    background-color: #fff;
+    padding: 2em 1em 0.5em 1em;
+    margin-top: -4.4em;
+    margin-bottom: 1em;
+    border: 1px solid #999;
+    overflow: visible;
+  }
+  #consultModal .circle-img-wrap {
+    position: absolute;
+    top: -2em;
+    right: -0.25em;
+    left: auto;
+    /*width: 5em;
+			height: 5em;
+			border-radius: 50%;
+			overflow: hidden;
+			border: 2px solid #fff;
+			box-shadow: -1px 1px 1px 1px #000;
+			box-shadow: -1px 1px 1px 1px rgba(0,0,0,0.1);
+			img {
+				width: auto;
+				min-width: 100%;
+				height: auto;
+				min-height: 100%;
+			}*/
+  }
+}

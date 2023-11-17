@@ -1,0 +1,59 @@
+[01-Dec-2021 09:22:50 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 41
+[01-Dec-2021 09:22:50 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 60
+[01-Dec-2021 09:22:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 60
+[01-Dec-2021 09:22:50 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 61
+[01-Dec-2021 09:22:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 61
+[01-Dec-2021 09:28:52 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 45
+[01-Dec-2021 09:28:52 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:28:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:28:52 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:28:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:30:12 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 45
+[01-Dec-2021 09:30:12 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:30:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:30:12 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:30:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:31:28 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 45
+[01-Dec-2021 09:31:28 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:31:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:31:28 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:31:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:32:38 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 45
+[01-Dec-2021 09:32:38 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:32:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:32:38 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:32:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:33:48 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 45
+[01-Dec-2021 09:33:48 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:33:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 64
+[01-Dec-2021 09:33:48 America/New_York] PHP Notice:  Undefined index: file in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:33:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 65
+[01-Dec-2021 09:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function logToFile() in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 15
+[01-Dec-2021 09:43:40 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 41
+[01-Dec-2021 09:43:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function logToFile() in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 58
+[01-Dec-2021 09:47:30 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 41
+[01-Dec-2021 09:47:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function logToFile() in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 58
+[01-Dec-2021 09:51:21 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 41
+[01-Dec-2021 09:51:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function logToFile() in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 58
+[01-Dec-2021 09:53:00 America/New_York] PHP Notice:  Undefined index: fieldName in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 41
+[01-Dec-2021 09:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function logToFile() in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 58
+[01-Dec-2021 09:53:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function logToFile() in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/chmtj7gsh8ne/public_html/wp-content/plugins/como-consult/public/inc/imageUpload.php on line 58
+[12-May-2022 20:45:06 America/New_York] ERROR PostmanWpMail: SendGrid\Mail\TypeException code=0 message=$type must be of type string.

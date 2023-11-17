@@ -1,0 +1,323 @@
+--- START ---
+
+Client Type:New Patient
+
+Client Source:other
+Consultation Preference:ZOOM via email address
+Patient Email:josh@computerwc.com
+Patient Phone:(610) 431-6662
+Patient Name:test
+Patient Age:99
+Patient Zipcode:99999
+Orthodontic Treatment:Metal braces
+
+What Matters:Will there be any discomfort?
+
+Primary Concern:test
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20211201095504-teeth-center-7712047772.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20211201095510-teeth-right-6269026895.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20211201095515-teeth-left-7399635846.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20211201095520-teeth-upper-9067107306.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20211201095524-teeth-lower-2963893130.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:dentist
+
+Consultation Preference:ZOOM via email address
+Patient Email:josh@computerwc.com
+Patient Phone:(610) 431-6662
+Patient Name:TEST
+Patient Age:99
+Patient Zipcode:99999
+Orthodontic Treatment:Invisalign
+
+What Matters:Will there be any discomfort?
+
+Primary Concern:TEST
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20211201095918-teeth-center-8749278682.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20211201095923-teeth-right-4771289124.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20211201095927-teeth-left-7053708565.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20211201095931-teeth-upper-3151310581.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20211201095935-teeth-lower-9661454804.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:other
+Consultation Preference:ZOOM via email address
+Patient Email:josh@computerwc.com
+Patient Phone:(610) 431-6662
+Patient Name:FINAL TEST
+Patient Age:99
+Patient Zipcode:99999
+Orthodontic Treatment:Invisalign
+
+What Matters:Will there be any discomfort?
+
+Primary Concern:PAIN?
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20211201170952-teeth-center-9467145029.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20211201170959-teeth-right-6693268710.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20211201171002-teeth-left-3642092949.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20211201171006-teeth-upper-6664636478.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20211201171010-teeth-lower-2781507988.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:other
+Consultation Preference:Facetime (iphone users only)
+
+Patient Email:vmongiovi@yahoo.com
+Patient Phone:(610) 717-7169
+Patient Name:Juliana
+Patient Age:13
+Patient Zipcode:19342
+Orthodontic Treatment:Metal braces
+
+What Matters:Length of Treatment
+
+Primary Concern:Straight teeth
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20211212233901-C037F6F9-CD15-4421-9B29-BE80560CE7F6-8289885954.jpeg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20211212233912-77B9293F-7F91-445A-84B8-C8B79E7E42A5-8900458029.jpeg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20211212233924-B5C45D56-BC59-4731-B4AB-1A54F4AC992C-2166454877.jpeg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20211212233935-7740ECBD-6BE5-46D1-8313-68DC3C97C5F4-9913787311.jpeg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20211212233948-50A2A996-8708-4F4F-813C-EFE689050A5E-9949532158.jpeg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:facebook
+
+Consultation Preference:Facetime (iphone users only)
+
+Patient Email:moboucher25@gmail.com
+Patient Phone:(484) 999-4722
+Patient Name:Molly Boucher
+Patient Age:21
+Patient Zipcode:19342
+Orthodontic Treatment:Invisalign
+
+What Matters:Length of Treatment
+,Nothing, just excited to get started
+Primary Concern:My biggest concern is the small gap between my front teeth. I cannot wait to get this fixed. I also have an overbite.
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220131112805-IMG-2633-6919868867.jpeg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220131112819-IMG-2634-5282940774.jpeg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220131112831-IMG-2635-6345625573.jpeg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220131112840-IMG-2632-5513430969.jpeg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20220131112848-IMG-2630-8676518753.jpeg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:dentist
+
+Consultation Preference:ZOOM via phone
+
+Patient Email:rfreschi@aol.com
+Patient Phone:(201) 747-9208
+Patient Name:Michele Freschi 
+Patient Age:74
+Patient Zipcode:07446
+Orthodontic Treatment:Invisalign
+
+What Matters:Length of Treatment
+
+Primary Concern:Bite is off. Before implant on lower left periodontist recommends ortho to adjust bite so teeth won\'t be under undo pressure. Had orthodonture 2xs in my life. Teeth went back to original bite. Not happy about overtime in front teeth. 
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220414085330-16499407786988780107068062734971-5803300048.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220414085723-16499409664226758480824184706059-6896814843.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220414085811-16499410567284716296501623750399-2098108077.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220414085906-16499411183803892615376693836827-2128939243.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20220414085945-16499411587452442269974123969164-6693209425.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:facebook
+
+Consultation Preference:Facetime (iphone users only)
+
+Patient Email:stacey.donnelly@hotmail.com
+Patient Phone:(610) 745-7344
+Patient Name:Stacey Cizmarik
+Patient Age:37
+Patient Zipcode:19703
+Orthodontic Treatment:Invisalign
+
+What Matters:Length of Treatment
+
+Primary Concern:straightening/ maybe my overbite
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220502132451-front-9211655870.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220502132527-right-1622885411.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220502132536-left-2413880855.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220502132546-upper-2547076310.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20220502132552-lower-6115704286.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:Existing Patient
+Client Source:dentist
+
+Consultation Preference:ZOOM via phone
+
+Patient Email:jloeffler25@gmail.com
+Patient Phone:(484) 433-9770
+Patient Name:Colton Loeffler 
+Patient Age:11
+Patient Zipcode:19810
+Orthodontic Treatment:My dentist mentioned my child may need an expander
+Primary Concern:Office asked for pictures since we had to cancel due to covid
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220512204437-20220512-204012-8413967513.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220512204447-20220512-204042-1705069461.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220512204457-20220512-204054-7564131492.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220512204503-20220512-204122-3952581763.jpg
+consultPhoto_Teeth_Lower:
+
+TO: info@mongioviortho.com
+
+NOT MAILED 
+
+emailnotsent
+
+--- START ---
+
+Client Type:Existing Patient
+Client Source:dentist
+
+Consultation Preference:ZOOM via phone
+
+Patient Email:jloeffler25@gmail.com
+Patient Phone:(484) 433-9770
+Patient Name:Colton Loeffler 
+Patient Age:11
+Patient Zipcode:19810
+Orthodontic Treatment:My dentist mentioned my child may need an expander
+Primary Concern:Office asked for pictures since we have covid un our household.
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220512204818-20220512-204012-4844321648.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220512204829-20220512-204042-2667494410.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220512204837-20220512-204054-3275905415.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220512204848-20220512-204122-8849047046.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20220512204854-20220512-204541-6995767621.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:facebook
+
+Consultation Preference:Facetime (iphone users only)
+
+Patient Email:melrose0620@aol.com
+Patient Phone:(302) 540-9349
+Patient Name:Melinda Ellis
+Patient Age:36
+Patient Zipcode:19701-2519
+Orthodontic Treatment:Invisalign
+
+What Matters:Nothing, just excited to get started
+Primary Concern:Test 
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220517092757-Christmas-2021-9547941545.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220517092809-cover-photo-new-4223194336.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220517092816-Jag-jog-shirt-2941386478.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220517092823-WINNER-FREE-BRACES-9874740805.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20220517092830-Untitled-2-8184929152.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
+--- START ---
+
+Client Type:New Patient
+
+Client Source:dentist
+
+Consultation Preference:ZOOM via email address
+Patient Email:josh@computerwc.com
+Patient Phone:(999) 999-9999
+Patient Name:test
+Patient Age:99
+Patient Zipcode:99999
+Orthodontic Treatment:Invisalign
+
+What Matters:Will there be any discomfort?
+
+Primary Concern:paimn
+consultPhoto_Teeth_Center:/wp-content/uploads/client-consult-photos/20220517094618-teeth-center-3746644464.jpg
+consultPhoto_Teeth_Right:/wp-content/uploads/client-consult-photos/20220517094626-teeth-right-7840886962.jpg
+consultPhoto_Teeth_Left:/wp-content/uploads/client-consult-photos/20220517094631-teeth-left-4547271492.jpg
+consultPhoto_Teeth_Upper:/wp-content/uploads/client-consult-photos/20220517094638-teeth-upper-7101689229.jpg
+consultPhoto_Teeth_Lower:/wp-content/uploads/client-consult-photos/20220517094645-teeth-lower-1281633137.jpg
+
+TO: info@mongioviortho.com
+
+MAILED 
+
+messagesent
+
